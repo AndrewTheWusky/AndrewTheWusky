@@ -6,6 +6,8 @@ Its nice to see you checking out my profile. If you are looking for any infromat
 
 ### 🫠 About Me 🫠
 Hello, I am a sixteen year old Lua developer, I am starting out FiveM Development for the first time, i have been coding Lua for over a year now. I mostly interact on discord reather then Github, and i mainly use tebex, I have almost all social media including an account on the famous FiveM forum. I have a passion for creating re-usable content online for years now, now i am finally able to acheve that. My goal in life is to be a creator, help improve roleplay on FiveM and other future GTA RP series.
+
+
 ---
 
 ### 🔗 My Links 🔗
