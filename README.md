@@ -6,9 +6,6 @@ Its nice to see you checking out my profile. If you are looking for any infromat
 
 ### 🫠 About Me 🫠
 Hello, I am a sixteen year old Lua developer, I am starting out FiveM Development for the first time, i have been coding Lua for over a year now. I mostly interact on discord reather then Github, and i mainly use tebex, I have almost all social media including an account on the famous FiveM forum. I have a passion for creating re-usable content online for years now, now i am finally able to acheve that. My goal in life is to be a creator, help improve roleplay on FiveM and other future GTA RP series.
-
-As you can also tell, I am a furry, however don't worry, I am not into any freaky aniaml shit as people might expect, I just like to represent my spirit animal. 
-
 ---
 
 ### 🔗 My Links 🔗
@@ -30,8 +27,6 @@ I have been into programming for a while now, i have taken multiple high school 
 
 ---
 
-### Currently Planning? 
-I have some family issues to take care of, I plan to make a living of providing content in the future, however i am not finatially stable to do that at the moment, I plan on doing that sometime down the road, however, as of right now, I plan on creating Server Sided Viusal Pack, that is high quality.
 
 ### 😀 Thanks for Reading 😀
 Make sure to join the discord using the links above, to make sure you don't miss out on any updates or notifications i put out.
